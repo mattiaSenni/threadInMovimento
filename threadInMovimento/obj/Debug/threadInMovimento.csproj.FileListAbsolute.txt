@@ -1,0 +1,15 @@
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\bin\Debug\threadInMovimento.exe.config
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\bin\Debug\threadInMovimento.exe
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\bin\Debug\threadInMovimento.pdb
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\MainWindow.g.cs
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\App.g.cs
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento_MarkupCompile.cache
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento_MarkupCompile.lref
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\MainWindow.baml
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.g.resources
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.Properties.Resources.resources
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.csproj.GenerateResource.cache
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.exe
+C:\Users\matti\Desktop\threadInMovimento\threadInMovimento\obj\Debug\threadInMovimento.pdb
