@@ -60,6 +60,11 @@ namespace threadInMovimento
             }
         }
 
+        public double InizioSalita { get; set; }
+        public double InizioDiscesa { get; set; }
+        public double FineDiscesa { get; set; }
+        public double IncrementoSD{ get; set; }
+
 
         public Concorrente(double mt, double ml, double i)
         {
